@@ -1,6 +1,6 @@
 import unittest
 
-import QuSim
+from QuSimPy import QuSim
 
 ###########################################
 #                Cases                    #
